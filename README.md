@@ -2,7 +2,7 @@
 # Speech-to-Text LLM Notebook
 
 ## Description
-A Jupyter Notebook demonstrating speech-to-text functionality with LLMs.
+A Jupyter Notebook demonstrating speech-to-text functionality with LLMs. Ran and tested on Paperspace.
 
 ## Sections
 
